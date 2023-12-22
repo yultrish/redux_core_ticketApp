@@ -1,0 +1,6 @@
+export const FETCH_TICKET = "FETCHT_TICKETS"
+export const ADD_TICKETS = "ADD_TICKETS"
+export const DELETE_TICKET = "DELETE_TICKET"
+export const UPDATE_TICKET = "UPDATE_TICKET"
+
+
